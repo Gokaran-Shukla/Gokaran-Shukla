@@ -10,6 +10,12 @@ Green's functions) to kinetic Monte Carlo and device models.
 ### Latest releases
 
 <!-- RELEASES:START -->
+| Software | Latest release | Date | Releases |
+|---|---|---|---|
+| **[orchid](https://github.com/Gokaran-Shukla/orchid)** | [v0.3.0](https://github.com/Gokaran-Shukla/orchid/releases/tag/v0.3.0) — ORCHID v0.3.0 | 2026-11-13 | [3](https://github.com/Gokaran-Shukla/orchid/releases) |
+| **[magex](https://github.com/Gokaran-Shukla/magex)** | [v0.5.0](https://github.com/Gokaran-Shukla/magex/releases/tag/v0.5.0) — magex 0.5.0 | 2026-11-12 | [4](https://github.com/Gokaran-Shukla/magex/releases) |
+
+<sub>Updated automatically from the GitHub API.</sub>
 <!-- RELEASES:END -->
 
 ### Software
