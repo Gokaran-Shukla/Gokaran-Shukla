@@ -7,6 +7,11 @@ Green's functions) to kinetic Monte Carlo and device models.
 
 [Website](https://gokaran-shukla.github.io) · [Google Scholar](https://scholar.google.com/citations?user=ChR9ktYAAAAJ)
 
+### Latest releases
+
+<!-- RELEASES:START -->
+<!-- RELEASES:END -->
+
 ### Software
 
 | | |
