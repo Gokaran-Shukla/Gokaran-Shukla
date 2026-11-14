@@ -12,6 +12,7 @@ Green's functions) to kinetic Monte Carlo and device models.
 <!-- RELEASES:START -->
 | Software | Latest release | Date | Releases |
 |---|---|---|---|
+| **[symphase](https://github.com/Gokaran-Shukla/symphase)** | [v1.0.0](https://github.com/Gokaran-Shukla/symphase/releases/tag/v1.0.0) — SymPhase 1.0.0 | 2026-11-14 | [1](https://github.com/Gokaran-Shukla/symphase/releases) |
 | **[orchid](https://github.com/Gokaran-Shukla/orchid)** | [v0.4.0](https://github.com/Gokaran-Shukla/orchid/releases/tag/v0.4.0) — ORCHID v0.4.0 | 2026-11-14 | [4](https://github.com/Gokaran-Shukla/orchid/releases) |
 | **[magex](https://github.com/Gokaran-Shukla/magex)** | [v0.5.0](https://github.com/Gokaran-Shukla/magex/releases/tag/v0.5.0) — magex 0.5.0 | 2026-11-12 | [4](https://github.com/Gokaran-Shukla/magex/releases) |
 
