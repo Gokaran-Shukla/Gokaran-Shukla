@@ -12,6 +12,7 @@ Green's functions) to kinetic Monte Carlo and device models.
 <!-- RELEASES:START -->
 | Software | Latest release | Date | Releases |
 |---|---|---|---|
+| **[magscout](https://github.com/Gokaran-Shukla/magscout)** | [v0.1](https://github.com/Gokaran-Shukla/magscout/releases/tag/v0.1) — v0.1 | 2026-11-22 | [1](https://github.com/Gokaran-Shukla/magscout/releases) |
 | **[wannagent](https://github.com/Gokaran-Shukla/wannagent)** | [0.1.0](https://github.com/Gokaran-Shukla/wannagent/releases/tag/0.1.0) — 0.1.0 | 2026-11-20 | [1](https://github.com/Gokaran-Shukla/wannagent/releases) |
 | **[qumat](https://github.com/Gokaran-Shukla/qumat)** | [v1.0](https://github.com/Gokaran-Shukla/qumat/releases/tag/v1.0) — v1.0 | 2026-11-20 | [1](https://github.com/Gokaran-Shukla/qumat/releases) |
 | **[risb-wannier](https://github.com/Gokaran-Shukla/risb-wannier)** | [v1.2.0](https://github.com/Gokaran-Shukla/risb-wannier/releases/tag/v1.2.0) — risb-wannier 1.2.0 | 2026-11-18 | [1](https://github.com/Gokaran-Shukla/risb-wannier/releases) |
@@ -21,7 +22,6 @@ Green's functions) to kinetic Monte Carlo and device models.
 | **[feynlab](https://github.com/Gokaran-Shukla/feynlab)** | [v1.3.0](https://github.com/Gokaran-Shukla/feynlab/releases/tag/v1.3.0) — feynlab 1.3.0 | 2026-11-18 | [1](https://github.com/Gokaran-Shukla/feynlab/releases) |
 | **[dalalquant](https://github.com/Gokaran-Shukla/dalalquant)** | [v1.0.0](https://github.com/Gokaran-Shukla/dalalquant/releases/tag/v1.0.0) — DalalQuant 1.0.0 | 2026-11-18 | [1](https://github.com/Gokaran-Shukla/dalalquant/releases) |
 | **[barista](https://github.com/Gokaran-Shukla/barista)** | [v0.3.0](https://github.com/Gokaran-Shukla/barista/releases/tag/v0.3.0) — BARISTA 0.3.0 | 2026-11-18 | [1](https://github.com/Gokaran-Shukla/barista/releases) |
-| **[symphase](https://github.com/Gokaran-Shukla/symphase)** | [v1.0.0](https://github.com/Gokaran-Shukla/symphase/releases/tag/v1.0.0) — SymPhase 1.0.0 | 2026-11-14 | [1](https://github.com/Gokaran-Shukla/symphase/releases) |
 
 <sub>Updated automatically from the GitHub API.</sub>
 <!-- RELEASES:END -->
